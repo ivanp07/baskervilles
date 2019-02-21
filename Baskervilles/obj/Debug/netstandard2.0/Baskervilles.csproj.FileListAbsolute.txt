@@ -1,0 +1,10 @@
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\bin\Debug\netstandard2.0\Baskervilles.deps.json
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\bin\Debug\netstandard2.0\Baskervilles.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\bin\Debug\netstandard2.0\Baskervilles.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.csproj.CoreCompileInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.AssemblyInfoInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.AssemblyInfo.cs
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\Baskervilles\Baskervilles\Baskervilles\obj\Debug\netstandard2.0\Baskervilles.csprojAssemblyReference.cache
